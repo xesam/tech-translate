@@ -1,5 +1,5 @@
 #What Context?
-原文：[Context, What Context?](http://possiblemobile.com/2013/06/context/)
+英文原文：[Context, What Context?](http://possiblemobile.com/2013/06/context/)
 
 ##Context
 
