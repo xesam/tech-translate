@@ -184,3 +184,5 @@ Context 能实现哪些功能，主要还是取决于 Context 从何而来，下
 
 简而言之，在组件的生命周期之内可以直接使用自身的 Context， 一旦需要在超出组件生命周期之外的对象中使用 Context ，就应该只用 application context，哪怕只是临时的引用，也是如此。
 
+
+####Android分享 Q群：315658668
