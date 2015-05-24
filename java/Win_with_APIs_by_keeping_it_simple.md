@@ -1,4 +1,4 @@
-#赢在API，简单致胜
+#Win with APIs by keeping it simple
 
 原文：[Win with APIs by keeping it simple](http://www.javaworld.com/article/2877163/java-app-dev/win-with-apis-by-keeping-it-simple.html)
 
